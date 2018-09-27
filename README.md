@@ -8,4 +8,4 @@ Co-occurrence Feature Learning from Skeleton Data for Action Recognition and Det
 Originial Code: 
 https://github.com/fandulu/Keras-for-Co-occurrence-Feature-Learning-from-Skeleton-Data-for-Action-Recognition
 
-# Updated above code for 25 body joints
+# Updated above code to perform Action Recognition on Multi-View Action Recognition Dataset containing 25 Body Joints (3D) Information
